@@ -81,30 +81,22 @@ An AI-powered interview training agent that acts like an HR/technical interviewe
 ---
 
 ## 🖼️ Screenshots  
-### 🔹 Agent Setup
-![Setup & preview image](setup.jpg)  
-### 🔹 Interview Instructions  
-![Agent Instructions](agent_instructions.jpg)  
-### 🔹 Quick Start Q&A  
-![Quick Start](quick_start_questions.jpg)  
-### 🔹 Testing the Agent  
-![Tool Used & Testing](testing.jpg)  
-### 🔹 Deployment on IBM  
-![Deployment Preview](deployed.jpg)  
-### 🔹 API or Web Deployment  
-![API Links](links.jpg)  
-### 🔹 Resources List  
-![Resources](resourses_list.jpg)
-
----
-
-## 🎥 Recordings (Watch to build on your own)
-
-▶️ [Agent Setup](https://youtu.be/example-link)  
-▶️ [Deployment & Testing](https://youtu.be/example-link)
-
-*(Replace above links with actual video links if available)*
-
+### 🔹 01 – Agent Instructions
+![Agent Instructions](01_agent_instructions.jpg)   
+### 🔹 02-Agent Setup
+![Agent Setup](02_setup.jpg)  
+### 🔹 Resources  
+![Resources List](03_Resources_list.jpg)  
+### 🔹 Tools  
+![Tool Used](04_tools.jpg)  
+### 🔹 API Reference  
+![API Reference](05_API_reference.jpg)  
+### 🔹PrepWise AI Agent  
+![AI Agent](06_PrepWise_AI_Agent.jpg)  
+### 🔹 Testing  
+![Testing](07_testing.jpg)
+### 🔹 Deployed
+![Deployed](08_deployed.jpg)
 ---
 
 ## 📌 How to Run or Deploy
@@ -132,8 +124,7 @@ An AI-powered interview training agent that acts like an HR/technical interviewe
 ## 🔗 Useful Links
 
 - [IBM Cloud Lite](https://cloud.ibm.com/registration)  
-- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)  
-- [AI Kosh Datasets](https://ai-ksdm.in)  
+- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)    
 - [IBM SkillsBuild](https://skillsbuild.org)
 
 ---
@@ -144,10 +135,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/sanjana-malkhede)  
-*(Replace with your actual LinkedIn profile link if needed)*
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/sanjana-malkhede-94020328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
-> Created with ❤️ during the IBM SkillsBuild for Academia Internship 2025 by **Sanjana Malkhede**
+> Created with ❤️ during the IBM SkillsBuild for Edunet Internship 2025 by **Sanjana Malkhede**
 
